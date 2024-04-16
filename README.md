@@ -13,7 +13,7 @@
 ## Sobre 
 Este repositório tem como objetivo a realização de exercícios de grafos do site [leetcode](https://leetcode.com/), seguem os exercícios solucionados com seus respectivos vídeos:
 
-1 - [Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/description/): Hard. [Vídeo]()
+1 - [Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/description/): Hard. [Vídeo](https://youtu.be/WV1VjKO7Lys)
 </br>
 2 - [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/description/): Medium. [Vídeo]()
 </br>
