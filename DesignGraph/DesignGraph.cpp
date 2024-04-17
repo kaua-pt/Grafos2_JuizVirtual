@@ -21,14 +21,6 @@ public:
         adj[edge[0]].emplace_back(edge[2], edge[1]);
     }
 
-    struct MinHeapComparator
-    {
-        bool operator()(const int &a, const int &b)
-        {
-            return a > b; // retorna true se a for maior que b, para inverter a ordem
-        }
-    };
-
     struct CompareFirst
     {
         bool operator()(const std::pair<int, int> &a, const std::pair<int, int> &b) const

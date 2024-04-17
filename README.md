@@ -15,7 +15,7 @@ Este repositório tem como objetivo a realização de exercícios de grafos do s
 
 1 - [Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/description/): Hard. [Vídeo](https://youtu.be/WV1VjKO7Lys)
 </br>
-2 - [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/description/): Medium. [Vídeo]()
+2 - [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/description/): Medium. [Vídeo](https://youtu.be/D1FrjoWBomI)
 </br>
 3 - [](): Medium. [Vídeo]()
 </br>
@@ -32,7 +32,7 @@ As imagens 1 à 4 evidenciam as screenshots dos códigos que foram aceitos pelo 
 </div>
 
 ##### 2 - Min Cost to Connect All Points
-![](assets/.png)
+![](assets/MC.png)
 
 <div style="text-align: center">
 <p> Imagem 2: Código aceito segundo exercício (Fonte: Autor, 2024).</p>
@@ -42,14 +42,14 @@ As imagens 1 à 4 evidenciam as screenshots dos códigos que foram aceitos pelo 
 ![](assets/.png)
 
 <div style="text-align: center">
-<p> Imagem 3: Código aceito segundo exercício (Fonte: Autor, 2024).</p>
+<p> Imagem 3: Código aceito terceiro exercício (Fonte: Autor, 2024).</p>
 </div>
 
 ##### 4 - 
 ![](assets/.png)
 
 <div style="text-align: center">
-<p> Imagem 4: Código aceito segundo exercício (Fonte: Autor, 2024).</p>
+<p> Imagem 4: Código aceito quarto exercício (Fonte: Autor, 2024).</p>
 </div>
 
 ## Instalação 
