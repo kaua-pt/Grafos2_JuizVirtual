@@ -17,7 +17,9 @@ Este repositório tem como objetivo a realização de exercícios de grafos do s
 </br>
 2 - [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/description/): Medium. [Vídeo](https://youtu.be/D1FrjoWBomI)
 </br>
-3 - [](): Medium. [Vídeo]()
+3 - [Hierarchy](https://codeforces.com/contest/17/problem/B): Codeforces 1500. [Vídeo](
+    https://youtu.be/4LpDV3eX0Po
+)
 </br>
 4 - [](): Medium. [Vídeo]()
 
