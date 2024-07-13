@@ -40,8 +40,8 @@ As imagens 1 à 4 evidenciam as screenshots dos códigos que foram aceitos pelo 
 <p> Imagem 2: Código aceito segundo exercício (Fonte: Autor, 2024).</p>
 </div>
 
-##### 3 - 
-![](assets/.png)
+##### 3 - Hierarchy
+![](assets/Hi.png)
 
 <div style="text-align: center">
 <p> Imagem 3: Código aceito terceiro exercício (Fonte: Autor, 2024).</p>
