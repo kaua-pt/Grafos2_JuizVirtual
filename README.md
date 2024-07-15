@@ -21,7 +21,7 @@ Este repositório tem como objetivo a realização de exercícios de grafos do s
     https://youtu.be/4LpDV3eX0Po
 )
 </br>
-4 - [](): Medium. [Vídeo]()
+4 - [Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/description/): Medium. [Vídeo](https://youtu.be/P4ZtfdIbgRc)
 
 ## Screenshots
 As imagens 1 à 4 evidenciam as screenshots dos códigos que foram aceitos pelo site:
@@ -47,7 +47,12 @@ As imagens 1 à 4 evidenciam as screenshots dos códigos que foram aceitos pelo 
 <p> Imagem 3: Código aceito terceiro exercício (Fonte: Autor, 2024).</p>
 </div>
 
-##### 4 - 
+##### 4 - Number of Operations to Make Network Connected
+![image](https://github.com/user-attachments/assets/610e88d2-e4c0-4a7b-ae5a-a8381b6246ee)
+<div style="text-align: center">
+<p> Imagem 4: Código aceito quarto exercício (Fonte: Autor, 2024).</p>
+</div>
+
 ![](assets/.png)
 
 <div style="text-align: center">
